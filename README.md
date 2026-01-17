@@ -1,5 +1,3 @@
-# trading-sql-project
-SQL-based analysis of trading performance and risk metrics
 # Trader Performance & Risk Analysis using SQL
 
 ## 📌 Project Overview
